@@ -16,7 +16,8 @@ Python, Django and Django RestFramework.
 > pip install -r requirements.txt 
 
 ### Documentation 
-Redoc http://127.0.0.1:8000/redoc/
+Redoc http://127.0.0.1:8000/redoc/. 
+
 Swagger http://127.0.0.1:8000/swagger/  
 
  #### Author  
